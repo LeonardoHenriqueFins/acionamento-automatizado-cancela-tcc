@@ -1,0 +1,14 @@
+# Arquivos de configuração do PyCharm
+.idea/
+
+# Ambiente Virtual
+# Ignora ambas as variações para garantir
+.venv/
+venv/
+
+# Arquivos de cache e compilados do Python
+__pycache__/
+*.pyc
+
+# Arquivo de imagem temporário gerado pelo script de OCR
+processed.png
